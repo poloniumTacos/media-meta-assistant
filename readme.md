@@ -23,7 +23,7 @@ git clone https://github.com/poloniumTacos/plex-meta-assistant.git
 2. Navigate to the cloned directory:
 
 ```bash
-cd poster-grabber
+cd plex-meta-assistant
 ```
 
 3. Install the required dependencies using pip:
