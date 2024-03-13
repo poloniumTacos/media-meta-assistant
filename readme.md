@@ -12,7 +12,7 @@ Plex Meta Assistant is a Python script designed to search for and download poste
 - Automatic filtering based on release year.
 - Detailed logging for debugging purposes.
 
-## Requirents
+## Requirements
 
 - Both movies and TV shows need to have the release year in the folder name.
 
