@@ -2,9 +2,9 @@ Sure, here's a README file for your poster-grabber:
 
 ---
 
-# Poster Grabber
+# Plex Meta Assistant
 
-Poster Grabber is a Python script designed to search for and download posters for movies and TV shows based on their names and release years. It utilizes the TMDb (The Movie Database) API to search for media information and obtain poster URLs.
+Plex Meta Assistant is a Python script designed to search for and download posters for movies and TV shows based on their names and release years. It utilizes the TMDb (The Movie Database) API to search for media information and obtain poster URLs.
 
 ## Features
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Configuration
 
-Before using Poster Grabber, you need to provide your TMDb API key in a `config.json` file. Follow these steps:
+Before using Plex Meta Assistant, you need to provide your TMDb API key in a `config.json` file. Follow these steps:
 
 1. Create a TMDb account if you haven't already: [TMDb Sign Up](https://www.themoviedb.org/signup)
 2. Generate an API key from your TMDb account: [TMDb API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
@@ -61,7 +61,7 @@ Example `config.json`:
       |- TVShowName (ReleaseYear)
    ```
 
-2. Run the Poster Grabber script by executing the following command:
+2. Run the Plex Meta Assistant script by executing the following command:
 
 ```bash
 python poster_grabber.py
@@ -76,4 +76,5 @@ The script logs detailed information about its operations to a `debug.log` file 
 ---
 
 Feel free to customize this README to fit your specific requirements or add any additional information as needed.
+
 # plex-meta-assistant
