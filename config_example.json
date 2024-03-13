@@ -1,0 +1,14 @@
+{
+    "tmdb_api_key": "TMDB API KEY",
+    "media_paths": [
+        {
+          "type": "movie",
+          "path": "/mnt/user/data/media/movies"
+        },
+        {
+          "type": "show",
+          "path": "/mnt/user/data/media/shows"
+        }
+    ],
+    "debug_level": "INFO"
+}
