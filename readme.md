@@ -1,7 +1,3 @@
-Sure, here's a README file for your poster-grabber:
-
----
-
 # Plex Meta Assistant
 
 Plex Meta Assistant is a Python script designed to search for and download posters for movies and TV shows based on their names and release years. It utilizes the TMDb (The Movie Database) API to search for media information and obtain poster URLs. Tries to keep the poster name friendly so plex can read it properly.
