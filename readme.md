@@ -76,3 +76,4 @@ The script logs detailed information about its operations to a `debug.log` file 
 ---
 
 Feel free to customize this README to fit your specific requirements or add any additional information as needed.
+# plex-meta-assistant
