@@ -4,7 +4,7 @@ import requests
 import logging
 from tmdbv3api import TMDb, Movie, TV
 
-class MediaProcessor:
+class MediaMetaAssistant:
     def __init__(self, config_file='config.json'):
         with open(config_file, 'r') as file:
             self.config = json.load(file)
@@ -121,5 +121,5 @@ class MediaProcessor:
                 print(f"{media_type.capitalize()} path not found in config.json")
 
 if __name__ == "__main__":
-    processor = MediaProcessor()
+    processor = MediaMetaAssistant()
     processor.main()
