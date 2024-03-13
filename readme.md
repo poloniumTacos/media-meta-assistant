@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Configuration
 
-Before using Plex Meta Assistant, you need to provide your TMDb API key in a `config.json` file. Follow these steps:
+Before using Plex Meta Assistant, you need to rename `config_example.json` to `config.json` and provide your TMDb API key in a `config.json` file. Follow these steps:
 
 1. Create a TMDb account if you haven't already: [TMDb Sign Up](https://www.themoviedb.org/signup)
 2. Generate an API key from your TMDb account: [TMDb API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
