@@ -75,4 +75,4 @@ The script logs detailed information about its operations to a `debug.log` file 
 
 ---
 
-# plex-meta-assistant
+# Plex Meta Assistant
