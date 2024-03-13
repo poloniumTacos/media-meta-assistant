@@ -17,7 +17,7 @@ Plex Meta Assistant is a Python script designed to search for and download poste
 1. Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/poloniumTacos/plex-meta-assistant.git
 ```
 
 2. Navigate to the cloned directory:
