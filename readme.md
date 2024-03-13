@@ -64,7 +64,7 @@ Example `config.json`:
 2. Run the Plex Meta Assistant script by executing the following command:
 
 ```bash
-python poster_grabber.py
+python poster-assistant.py
 ```
 
 3. The script will search for posters for each movie and TV show in the specified directories and download them if found.
